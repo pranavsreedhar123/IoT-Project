@@ -8,5 +8,10 @@
      - Created a POC of two automation projects:
         - [IR Buzzer Project](https://www.youtube.com/watch?v=fxgHeV5pN74)
         - [Smart Fan Project](https://www.youtube.com/watch?v=tRMwInP_f24)
+3. We created a basic object detection program that detects common things (list is in the file coco.names)
+     - Detect objects using an image
+     - Detect objects using a video
+     - Detect objects using your live webcam
+     - NOTE: file yolov3.weights could not be uploaded but can be found here: https://pjreddie.com/darknet/yolo/ (YOLOv3-608)   
    
     
